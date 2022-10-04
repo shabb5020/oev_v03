@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658206743386",
+    "project_id": "oev-users",
+    "storage_bucket": "oev-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658206743386:android:489fdc4698185d2ae93163",
+        "android_client_info": {
+          "package_name": "de.oev.oev_v03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658206743386-5mr1qbbvmmrkrv338cjoej25mquj14r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTGidMwoFTDqo-sxljHmP7V2CPyI7hnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658206743386-5mr1qbbvmmrkrv338cjoej25mquj14r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
